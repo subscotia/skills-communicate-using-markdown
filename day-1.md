@@ -6,6 +6,8 @@
 
 ## Morning Planning for lazy shites
 
+<img alt="Cloudy morning" src="https://octodex.github.com/images/cloud.jpg" width="100" align="right">
+
 ## Review and if necessary apply stick to arse cheeks
 
 Convert an image or video from dark mode to light mode using [ffmpeg](https://www.ffmpeg.org)
